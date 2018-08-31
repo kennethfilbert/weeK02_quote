@@ -1,0 +1,7 @@
+{
+  "name": "week02_quote",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
